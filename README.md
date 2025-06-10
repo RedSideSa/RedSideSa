@@ -12,9 +12,9 @@
 
 ---
 
-## 🚀 Our Solutions
+## Our Solutions
 
-- **CatchPhis**  
+- **CatchPhish**  
   _Phishing Detection Platform_  
   Proactively detects and neutralizes phishing threats to keep your organization and data safe.
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌟 Why Choose Red Side?
+## Why Choose Red Side?
 
 - Saudi-based, globally competitive
 - SaaS solutions for seamless deployment and scalability
@@ -33,7 +33,7 @@
 
 ---
 
-## 📞 Connect With Us
+## Connect With Us
 
 - 🌐 [Website](https://redside.sa)
 - 💼 [LinkedIn](https://www.linkedin.com/company/red-side/)
